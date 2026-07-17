@@ -8,7 +8,11 @@ public class App {
         System.out.println("main #2");
         System.out.println("admin #2");
         System.out.println("admin #3");
-         System.out.println("dev #2#3");
+
+        System.out.println("dev #2#3");
+
+        System.out.println("admin #4");
+        System.out.println("main #3");
 
 
     }
